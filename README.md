@@ -1,50 +1,51 @@
 <div align="center">
 
-  <!-- Anime Hunter Theme Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30,10&height=220&section=header&text=⚡%20HunterX%20|%20Ahmed%20Hazaea%20⚡&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Tech%20Instructor%20•%20Nen%20Practitioner&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Cyber / Arc Dev Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=⚡%20Arc%20|%20Ahmed%20Hazaea%20⚡&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20ICDL%20Trainer%20•%20Tech%20Architect&descAlignY=58&descAlign=50" width="100%" alt="Arc Header Banner" />
 
   <br/>
 
   <p align="center">
-    <img src="https://media.giphy.com/media/8UGGp7rQvfhe63CTO3/giphy.gif" width="480" alt="Hunter x Hunter Aura" />
+    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
   </p>
 
-  ***"In the Digital Continent, Code is my Nen, and Bugs are my Targets."***
+  ### 🌌 *"Turning complex logic into elegant architecture."*
 
   <br/>
 
-  <!-- Badges / Contact -->
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Ahmed__Hazaa-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-hazaa)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-ahmedalie838.di@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ahmedalie838.di@gmail.com)
-  [![GitHub Profile Views](https://komarev.com/ghpvc/?username=AhmedHunterX&color=00d26a&style=for-the-badge&label=Hunter+Views)](https://github.com/AhmedHunterX)
+  <!-- Contact Badges -->
+  <a href="https://www.linkedin.com/in/ahmed-hazaa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:ahmedalie838.di@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ahmedalie838.di@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=AhmedHunterX&color=4364F7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 🗡️ About The Hunter
-
-<table align="center" width="100%">
-<tr>
-<td width="60%" valign="top">
+## ⚡ System Architecture (About Arc)
 
 ```python
-class HunterProfile:
+class ArcSystem:
     def __init__(self):
-        self.name = "Ahmed Hazaea Ali (أحمد هزاع علي)"
-        self.codename = "HunterX"
-        self.title = "Software Engineer & Certified ICDL Trainer"
-        self.location = "Marib / Ta'izz, Yemen 🇾🇪"
+        self.developer = "Ahmed Hazaea Ali (أحمد هزاع علي)"
+        self.alias = "Arc"
+        self.role = "Software Engineer & Certified ICDL Trainer"
+        self.location = "Ta'izz / Marib, Yemen 🇾🇪"
         self.email = "ahmedalie838.di@gmail.com"
-        self.nen_type = "Specialist / Transmuter ⚡"
         
-    def get_mission(self):
-        return "Crafting powerful software & empowering the next generation of tech talent."
+    def mission_statement(self):
+        return "Building robust, scalable applications & educating future tech talent."
 
-    def hobbies(self):
+    def interests(self):
         return [
-            "Watching Legendary Anime (Hunter x Hunter, etc.) 🍿",
-            "Exploring Sci-Fi & Emerging Tech Trends 🚀",
-            "Hunting down elusive zero-day bugs at 2 AM 🐛",
-            "Training & Sharing Knowledge 💻"
+            "Software Architecture & Design Patterns 🏛️",
+            "Deep Algorithmic Problem Solving 🧩",
+            "Hunting Bugs & Security Optimizations 🛡️",
+            "Technical Training & Mentorship 💻"
         ]
