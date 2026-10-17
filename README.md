@@ -1,30 +1,40 @@
 <div align="center">
 
-  <!-- Arc Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=⚡%20ARC%20|%20Ahmed%20Albana%20⚡&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20ICDL%20Trainer%20•%20System%20Builder&descAlignY=58&descAlign=50" width="100%" alt="Arc Header Banner" />
+  <!-- Main Hero Banner -->
+  <img src="banner.png" width="100%" alt="ARC Banner" style="border-radius: 12px;" />
 
-  <br/>
+  <br/><br/>
+
+  <!-- Profile Logo & Title -->
+  <a href="https://github.com/ARC838">
+    <img src="arc-logo.png" width="130" height="130" alt="ARC Logo" style="border-radius: 50%;" />
+  </a>
+
+  # ⚡ ARC | Ahmed Albana ⚡
+  ### *Software Engineer & System Architect*
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
+    <i>"Turning complex logic into robust architecture, guided by precision."</i>
   </p>
 
-  <h3>🌌 <i>"Turning complex logic into elegant architecture."</i></h3>
-
-  <br/>
-
-  <!-- Contact Badges -->
-  <a href="mailto:ahmedalie838.di@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ahmedalie838.di@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ARC838&color=4364F7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <!-- Contact -->
+  <p align="center">
+    <a href="mailto:ahmedalie838.di@gmail.com">
+      <b>📧 ahmedalie838.di@gmail.com</b>
+    </a>
+    &nbsp;•&nbsp;
+    <b>📍 Ta'izz / Marib, Yemen 🇾🇪</b>
+  </p>
 
 </div>
 
 ---
 
-## ⚡ System Architecture (About Arc)
+## 🗡️ System Architecture (About Me)
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
 ```python
 class ArcSystem:
@@ -36,9 +46,9 @@ class ArcSystem:
         self.email = "ahmedalie838.di@gmail.com"
         
     def mission_statement(self):
-        return "Building robust, scalable applications & educating future tech talent."
+        return "Crafting powerful systems, solving complex logic, and empowering upcoming developers."
 
-    def interests(self):
+    def domains(self):
         return [
             "Software Architecture & Problem Solving 🏛️",
             "Hardware & Electronics Diagnostics ⚙️",
